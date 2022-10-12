@@ -1,0 +1,150 @@
+/* body{
+      height: 790px !important;
+} */
+.adminNavigation{
+      background: url('http:/Images/Admin1.jpg');
+      height: 790px;
+      background-repeat: no-repeat;
+      background-attachment: fixed; 
+      background-size: 100% 100%;
+      /* overflow: hidden; */
+}
+.adminDetails{
+      width: 85%;
+      text-align: justify;
+      padding: 15px;
+      margin-left: 6%;
+      margin-top: 10px;
+      border-radius: 15px;
+      background-color: rgb(110, 192, 181);
+}
+
+.view-btn{
+      margin-right: 50px;
+      border-radius: 8px;
+      margin: 35px 0px 15px 44%;
+      font-size: 15px;
+      font-weight: bold;
+      background-color: rgb(238, 179, 123);
+}
+.viewResult{
+      width: 1000px;
+      text-align: justify;
+}
+
+.update-date{
+      color: rgb(253, 253, 253);
+      width: 63%;
+      margin-left: 20%;
+      border-radius: 5px;
+      background-color: rgb(57, 151, 139);
+}
+.edit1-btn {
+      margin-left: 46%;
+      font-weight: bold;
+      margin-top: 10px;
+}
+.update1-btn {
+      width: 12%;
+      margin-left: 44.5%;
+      font-weight: bold;
+      margin-top: 10px;
+}
+.button{
+      width: 70px;
+      margin-left: 45%;
+      font-weight: bold;
+}
+.text1{
+      font-size: 18px;
+}
+.dialog{
+      text-align: center;
+}
+
+.k-animation-container{
+      z-index: 10003
+}
+.admin-update{
+      margin-left: 37%;
+      font-weight: bold;
+      color: rgb(212, 143, 52);
+      font-size: 20px;
+}
+.k-grid-header{
+      background-color: rgb(247, 202, 151);
+      font-size: 17px;
+      font-weight: bold;
+}
+
+.k-cell-inner>.k-link{
+      color: rgb(221, 101, 147);    
+}
+
+.delete-btn {
+      display: flex;     
+      margin-left: 200px;    
+}
+
+.delete-btn button{
+      background-color: rgb(236, 162, 236);
+      padding: 4px;  
+      border-radius: 5px; 
+      font-size: 15px; 
+      display: flex;
+      font-weight: bold;
+      color: rgb(24, 85, 60);
+}
+.yes-btn{
+      margin-right: 20px;
+}
+.k-actions{
+      border: none;  
+}
+.Admin-User{
+      color: rgb(42, 155, 89);     
+}
+td.Admin-User{
+      font-weight: bold;
+}
+tr.k-master-row{
+      height: 70px;
+}
+th.k-header{
+      height: 40px; 
+      /* text-align: center !important; */
+}
+span.k-column-title{
+      margin: auto;
+      margin-bottom: 10px;
+}
+button.k-button.k-primary{
+      background-color: rgb(14, 110, 167);
+      border: black;
+      border-radius: 4px;
+}
+.k-window-titlebar{
+      background-color: rgb(27, 159, 192);
+}
+tr.k-master-row{
+      text-align: center;
+}
+span.deactivate{
+      color: red;
+      font-weight: bold;
+      text-align: center;
+      font-size: 20px;
+
+}
+.activate{
+      color: green;
+      font-weight: bold;
+      font-size: 22px;
+      text-align: center;
+}
+.k-icon.k-i-sort-asc-sm,span.k-icon.k-i-sort-desc-sm {
+      font-size: 30px;
+      color: rgb(9, 105, 122);
+}
+
+

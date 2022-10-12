@@ -1,0 +1,57 @@
+.profile-body{
+    background: url('http:/Images/Score.jpg');
+    /* min-height: 100%;
+      min-width: 1024px;
+      width: 100%;
+      height: auto;
+      position: fixed; */
+
+      height: 790px;
+      background-repeat: no-repeat;
+      background-attachment: fixed; 
+      background-size: 100% 100%;
+      /* overflow: hidden; */
+}
+#wrapper2 {
+  width: 50%;
+  height: 50%;
+  border: 0px solid #000;
+  margin-left: 24%;
+  padding-top: 20px;
+}
+.profile-content{
+  width: 550px;
+      height: 55%;
+      margin: 10px auto;
+      /* background-color: rgb(238, 177, 195); */
+      /* border: 2px solid #a7bec5;
+      padding: 20px 30px; */
+      border-radius: 15px;
+}
+
+.edit-btn {
+      width: 5%;
+      margin-left: 46%;
+      font-weight: bold;
+      margin-top: 10px;
+    }
+    .update-btn {
+      width: 5%;
+      margin-left: 46%;
+      font-weight: bold;
+      margin-top: 10px;
+    }
+    /* .reset-btn {
+      width: 5%;
+      margin-left: 3%;
+      font-weight: bold;
+      margin-top: 10px;
+    } */
+    .update{
+      margin-left: 44%;
+      font-weight: bold;
+      color: rgb(215, 218, 59);
+      font-size: 20px;
+    }
+
+    

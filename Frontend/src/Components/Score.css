@@ -1,0 +1,31 @@
+.score{
+      /* min-height: 100%;
+      min-width: 1024px;
+      width: 100%;
+      height: auto;
+      position: fixed; */
+      height: 800px;
+      background: url('http:/Images/Score.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed; 
+      background-size: 100% 100%;
+      overflow: hidden;
+}
+.scoreDetails{
+      width: 55%;
+      text-align: justify;
+      padding: 15px;
+      margin-left: 20%;
+      margin-top: 50px;
+      border-radius: 15px;
+      background-color: rgb(110, 192, 181);
+}
+.top{
+      text-align: center;
+      color: rgb(12, 41, 173);
+      padding-top: 10px;
+}
+.grid{
+      background-color: tomato;
+      text-align: center;
+}

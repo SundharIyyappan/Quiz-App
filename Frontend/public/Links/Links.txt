@@ -1,0 +1,53 @@
+
+1. React website:
+=======================
+https://reactjs.org/docs/getting-started.html
+https://www.w3schools.com/react/react_es6_array_methods.asp
+
+2. React youtube video:
+=============================
+https://youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
+
+3. React kendo-library:
+============================
+https://www.telerik.com/kendo-react-ui/components/grid/excel-export/
+npm install --save @progress/kendo-theme-default
+
+4. React connecting node.js & Mysql:
+=========================================
+https://medium.com/@prashantramnyc/a-simple-registration-and-login-backend-using-nodejs-and-mysql-967811509a64
+https://www.bezkoder.com/node-express-sequelize-postgresql/
+https://www.bezkoder.com/react-node-express-postgresql/#Project_Structure
+https://codingstatus.com/how-to-update-data-using-node-js-and-mysql/ (Update Data Using Node.js and react.js)
+
+4.1. postgresql query & connecting node.js & postgresql 
+========================================================
+https://blog.logrocket.com/getting-started-with-postgres-in-your-react-app/
+
+5. React unit testing-library:
+==================================
+https://testing-library.com/docs/queries/about/
+
+6. React icons:
+================
+https://react-icons.github.io/react-icons/
+https://melvingeorge.me/blog/show-or-hide-password-ability-reactjs (password, confirm password show & hide)
+
+6.1 Validations:
+================
+https://www.codegrepper.com/search.php?q=email%20regex
+
+7. React countdown-timer:
+==========================
+https://medium.com/bb-tutorials-and-thoughts/how-to-create-a-countdown-timer-in-react-app-e99916046292
+https://www.tutsmake.com/forgot-reset-password-in-node-js-express-mysql/ (reset password)
+
+8. postman-workspace:
+==========================
+https://web.postman.co/workspace/My-Workspace~4d7eed76-3a4e-4298-8567-491c68d67ccf/request/create?requestId=89e9ff2d-c81b-4892-8d99-d70945575436
+
+9. Bootstrap.com:
+======================
+https://getbootstrap.com/docs/5.1/components/navbar/
+https://bootsnipp.com/ (Reference content here)
+media query css

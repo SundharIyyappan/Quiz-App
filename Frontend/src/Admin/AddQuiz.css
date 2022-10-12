@@ -1,0 +1,71 @@
+.addQuiz{
+      background: url('http:/Images/Admin1.jpg');
+      /* min-height: 100%;
+      min-width: 1024px;
+      width: 100%;
+      height: auto;
+      position: fixed; */
+      height: 790px;
+      background-repeat: no-repeat;
+      background-attachment: fixed; 
+      overflow: hidden;
+      background-size: cover;
+}
+#entireDiv {
+      width: 70%;
+      height: 50%;
+      border: 0px solid #000;
+      padding-top: 30px;
+}
+.quiz-content {
+      width: 73%;
+      height: 40%;
+      margin-left: 13%;
+      /* margin: 10px auto;
+      background-color: rgb(199, 219, 180);
+      border: 2px solid #f7a6a6;
+      padding: 40px 50px;
+      border-radius: 15px; */
+}
+
+.header {
+      margin-bottom: 20px;
+      font-size: 20px;
+}
+.input{
+      width: 100%;
+      margin-bottom: 5px;
+      padding: 8px 12px;
+      border: 1px solid #f77a7a;
+      box-sizing: border-box;
+}
+.overlap-text {
+      position: relative;
+}
+.quiz-btn {
+      width: 20%;
+      margin-left: 40%;
+      font-weight: bold;
+      margin-top: 5%;
+} 
+ 
+.viewQus-btn{
+      margin-left: 42%;
+      margin-top: 2%;
+      margin-bottom: 0.5%;
+      width: 15%;
+      text-align: center;
+      background-color: #924fbe;
+      border: 1px solid #003569;
+      padding: 5px 12px;
+      color: rgb(218, 223, 243);
+      font-weight: bold;
+      border-radius: 7px;
+      font-size: 17px;
+}
+.viewQus-btn:hover{
+      background-color: #2d6fbb;
+}
+.editQuestion{
+      width: 550px;
+}

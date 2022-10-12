@@ -1,0 +1,30 @@
+Make Axios send cookies in its requests automatically:
+==========================================================
+I set a cookie on the client and I want to read that cookie from all Axios requests without adding them manually to request by hand.
+
+From the axios documentation:
+-----------------------------
+withCredentials: false, // default
+
+withCredentials indicates whether or not cross-site Access-Control requests should be made using credentials
+
+If you pass { withCredentials: true } with your request it should work.
+
+A better way would be setting withCredentials as true in axios.defaults
+
+axios.defaults.withCredentials = true
+
+
+Session Management using express-session Module in Node.js :
+==============================================================
+Session management can be done in node.js by using the express-session module. 
+It helps in saving the data in the key-value form. In this module, the session data is not saved in the cookie itself, just the session ID.
+
+
+JSON.stringify():
+==================
+1) A common use of JSON is to exchange data to/from a web server.
+
+2) When sending data to a web server, the data has to be a string.
+
+3) Convert a JavaScript object into a string with JSON.stringify().

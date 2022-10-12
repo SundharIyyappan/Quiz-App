@@ -1,0 +1,13 @@
+.instructions{
+      width: 35%;
+      height: 58%;
+      text-align: justify;
+      padding: 15px;
+      margin-left: 30%;
+      border-radius: 15px;
+      background-color: rgb(217, 226, 179);
+    }
+#instructions{
+      padding-bottom: 5px;
+      padding-top: 5px;
+}

@@ -1,0 +1,62 @@
+* {
+      margin: 0px;
+      padding: 0px;
+    }
+    .registration {
+      background-image: url("http:/Images/Quiz-background.jpg");
+      /* min-height: 100%;
+      min-width: 1024px;
+      width: 100%;
+      height: auto;
+      position: fixed; */
+      height: 800px;
+      background-repeat: no-repeat;
+      background-attachment: fixed; 
+      background-size: 100% 100%;
+      /* overflow: hidden; */
+    } 
+    #wrapper1 {
+      width: 50%;
+      height: 50%;
+      overflow: hidden;
+      border: 0px solid #000;
+      margin-left: 25%;
+      padding-top: 20px;
+    }
+    
+    .registration-content {
+      width: 350px;
+      height: 40%;
+      margin: 10px auto;
+      background-color: rgb(190, 211, 188);
+      border: 2px solid #f77a7a;
+      padding: 20px 60px;
+      border-radius: 15px;
+    }
+
+    .register-btn{
+      width: 35%;
+      margin-left: 33%;      
+      font-weight: bold;
+      margin-top: 20px;
+    }
+      
+    .overlap-text p {
+      position: absolute;
+      top: 22px;
+      right: 10px;
+      color: #0857a7;
+      font-size: 20px;
+      text-decoration: none;
+    }
+    .registration-error{
+      text-align: center;
+      color: red;
+      font-weight: bold;
+    }
+    .profileImage{
+      width: 8%;
+      height: 120px;
+      float: right;
+      margin: 20px 20px 0 0;
+    }

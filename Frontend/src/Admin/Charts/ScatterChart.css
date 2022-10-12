@@ -1,0 +1,21 @@
+
+.scatter-chart-wrapper{
+      margin-left: 15%; 
+}
+.chart{   
+      display: flex;
+}
+.lineChart,.scatterChart{
+      width: 45%;
+      margin: 5% 3%;
+}
+.welcome{
+      text-align: center;
+      padding-top: 30px;
+      color: #7e1fbd;
+}
+h3 {
+      text-align: center;
+}
+
+
